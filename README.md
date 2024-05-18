@@ -1,8 +1,3 @@
-# 👋 ¡Hola! Soy Sorac
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/sorac-dev)
-
----
 
 ## 👨‍💻 Sobre Mí
 
