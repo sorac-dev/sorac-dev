@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Sorac
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=wordpress&logoColor=white)](https://tu-web.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/sorac-dev)
 
 ---
 
