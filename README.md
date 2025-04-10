@@ -2,7 +2,7 @@
 
 Soy un desarrollador junior con pasión por el desarrollo web, la administración de servidores y la programación en general. Disfruto crear soluciones funcionales, optimizar entornos VPS y ayudar a otros a aprender y crecer en el mundo tech.
 
-- 🧠 CTO / Dueño actual de [Kekocity](https://kekocity.es) — una comunidad virtual con historia.
+- 🧠 CTO / Dueño actual de [Kekocity](https://kekocity.es) — una comunidad virtual con historia. ( 2004- Actualmente )
 - 🌐 Enfocado en desarrollo web moderno y backend robusto.
 - 🖥️ Experiencia configurando servidores VPS y servicios Linux.
 - 🛠️ Manejo de bases de datos MySQL y flujos de trabajo reales.
